@@ -32,10 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakumar8761&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakumar8761&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <!-- Streak Stats (Dynamic, uses contribution graph = accurate yearly commits) -->
