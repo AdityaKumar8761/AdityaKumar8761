@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Sinha</h1>
-<h3 align="center">"On a journey to become a polymath in tech"</h3>
+<h3 align="center">"HERE TO LEARN AND CONTRIBUTE"</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
